@@ -18,10 +18,6 @@ Besides all that, I'm also an artist in my spare time — whether on paper or di
 And yes, my 3D models are solid, but my clay sculptures? Equally impressive.  
 My creativity is multi-format... so I can *create* my own multiverse!
 
-## 📊 GitHub Stats
-
-![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annacomonteiro&show_icons=true&theme=dracula&hide_rank=false)
-
 ## 💻 Languages & Technologies I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,4 +27,7 @@ My creativity is multi-format... so I can *create* my own multiverse!
 
 > 💡 I use these languages in projects involving environmental modeling, data analysis, problem solving, and creative experimentation — from scientific scripts to 3D modeling and beyond!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annacomonteiro&theme=dracula)
+## 📊 GitHub Stats
+
+![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annacomonteiro&show_icons=true&theme=dracula&hide_rank=false)
+
