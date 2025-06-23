@@ -17,3 +17,14 @@ Now I navigate through environmental data analysis, project management, and a wi
 Besides all that, I'm also an artist in my spare time — whether on paper or digitally — and a fashion sketch designer!  
 And yes, my 3D models are solid, but my clay sculptures? Equally impressive.  
 My creativity is multi-format... so I can *create* my own multiverse!
+
+## 📊 GitHub Stats
+
+![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annacomonteiro&show_icons=true&theme=dracula&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annacomonteiro&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annacomonteiro&theme=dracula)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/annacomonteiro/annacomonteiro/blob/output/github-contribution-grid-snake.svg)
