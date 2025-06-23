@@ -21,6 +21,14 @@ My creativity is multi-format... so I can *create* my own multiverse!
 ## 📊 GitHub Stats
 
 ![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annacomonteiro&show_icons=true&theme=dracula&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annacomonteiro&layout=compact&theme=dracula)
+
+## 💻 Languages & Technologies I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+
+> 💡 I use these languages in projects involving environmental modeling, data analysis, problem solving, and creative experimentation — from scientific scripts to 3D modeling and beyond!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annacomonteiro&theme=dracula)
