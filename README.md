@@ -24,7 +24,3 @@ My creativity is multi-format... so I can *create* my own multiverse!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annacomonteiro&layout=compact&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annacomonteiro&theme=dracula)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/annacomonteiro/annacomonteiro/blob/output/github-contribution-grid-snake.svg)
