@@ -9,7 +9,7 @@ Now I navigate through environmental data analysis, project management, and a wi
 💡 **Interests**: sustainability, data science, climate change, tech innovation, and research.  
 🗣️ **Languages**: Portuguese, English, Spanish, French.  
 📬 **Want to chat or collaborate?** Reach out at: [anna.oliveiramonteiro@gmail.com](mailto:anna.oliveiramonteiro@gmail.com)  
-🎯 **You can count on me to** turn ideas into real impact — consciously and creatively connecting technology and the environment.
+🎯 **You can count on me to turn ideas into real impact — consciously and creatively connecting technology and the environment.**
 
 ---
 
