@@ -25,9 +25,5 @@ My creativity is multi-format... so I can *create* my own multiverse!
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 
-> 💡 I use these languages in projects involving environmental modeling, data analysis, problem solving, and creative experimentation — from scientific scripts to 3D modeling and beyond!
-
-## 📊 GitHub Stats
-
-![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annacomonteiro&show_icons=true&theme=dracula&hide_rank=false)
+> 💡 I use these languages in projects involving environmental modeling, data analysis, problem solving, and creative experimentation!
 
